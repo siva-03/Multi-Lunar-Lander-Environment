@@ -28,4 +28,4 @@ DQN implementation was an adaptation from https://goodboychan.github.io/python/r
 Most of the code in this repo belongs to PettingZoo (https://pettingzoo.farama.org/). We were only trying to add one more interesting environment to it in the form
 of the file ```multilunarlander_base.py``` in ```sisl``` folder.
 
-### NO COPYRIGHT INFRINGEMENT INTENDED WHATSOEVER. PLEASE MESSAGE ME IF YOU HAVE ANY OBJECTION TO ANYTHING IN THIS REPO.
+> NO COPYRIGHT INFRINGEMENT INTENDED WHATSOEVER. PLEASE MESSAGE ME IF YOU HAVE ANY OBJECTION TO ANYTHING IN THIS REPO.
