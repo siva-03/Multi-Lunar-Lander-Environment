@@ -6,7 +6,7 @@ successfully on a number of compliance tests that PettingZoo provides. We implem
 
 [![Watch the video](https://img.youtube.com/vi/zEJbj0CxVS0/maxresdefault.jpg)](https://youtu.be/zEJbj0CxVS0)
 
-###You can run the code using following python command:
+### You can run the code using following python command:
 
 TO TRAIN THE ALGORITHM
 ```python ./pettingzoo/sisl/train_lunar.py```
